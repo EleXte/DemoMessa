@@ -31,8 +31,8 @@
 *.out
 *.app
 
-*.h
-*.cpp
+#*.h
+#*.cpp
 
 # And full catalogs
 debug/

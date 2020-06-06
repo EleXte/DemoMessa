@@ -20,7 +20,8 @@ xmlviewer.cpp \
     cltransudp.cpp \
     mailsender.cpp \
     Calc_widget.cpp \
-    String_calc.cpp
+    String_calc.cpp \
+    ae_filecombiner.cpp
 
 HEADERS  += mainwindow.h \
 xmlviewer.hpp \
@@ -28,7 +29,8 @@ xmlviewer.hpp \
     cltransudp.h \
     mailsender.h \
     Calc_widget.h \
-    String_calc.h
+    String_calc.h \
+    ae_filecombiner.h
 
 
 FORMS    += mainwindow.ui \
